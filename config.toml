@@ -1,0 +1,25 @@
+baseURL = "https://garyhost.net"
+languageCode = "en-us"
+title = "Garyhost"
+
+[author]
+	name = "gamb1t"
+
+[markup]
+	[markup.tableOfContents]
+		ordered = false
+		startlevel = 2
+		endlevel = 4
+	[markup.highlight]
+		anchorLineNos = false
+		codeFences = true
+		guessSyntax = true
+		hl_Lines = ""
+		lineAnchors = ""
+		lineNoStart = 1
+		lineNos = true
+		lineNumbersInTable = true
+		noClasses = false
+		style = "native"
+		tabWidth = 4
+		lineOs = "table"

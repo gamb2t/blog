@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/web
+rm -rf *
+cd ~/garyhost
+hugo --minify -d ~/web
